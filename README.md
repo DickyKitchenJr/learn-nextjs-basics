@@ -1,5 +1,7 @@
-# learn-nextjs-basics
+# Learn NextJS Basics
  A site to teach how to get started with Next.js
+
+ ## Hosted Here: [https://learn-nextjs-basics-hc0y4mk3c-dickykitchenjr.vercel.app/]
 
 ## Purpose: 
 - to create a simple walkthrough for people with understanding of React, JS, CSS, and HTML to use to learn the basics of Next.js
